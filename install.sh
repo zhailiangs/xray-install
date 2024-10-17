@@ -42,7 +42,6 @@ zipRoot() {
         END {
             print prefix;
         }
-    '
 }
 
 stopxray(){
